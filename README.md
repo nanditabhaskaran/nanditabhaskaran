@@ -1,10 +1,13 @@
-👋 Hi, I’m @nanditabhaskaran, working in User Growth & Product Marketing at a Gaming Unicorn in India!
-I love combining design thinking with data analytics to create amazing user experience.
+👋 Hello there! 
 
-🌍 I have travelled to 61 cities across the world from Cairo to Bratislava to Bali!
+**Growthing User Acquisitions & Strategizing Product Funnels at a Gaming Unicorn in India!**
 
-- 💞️ I’m looking to collaborate on Design & Pitch Decks, User Journey Improvements & Simplified Analytics
-- 📫 How to reach me - nandita.bhaskaran@gmail.com
+- ⚖️ I love combining design thinking with data analytics to create amazing user experience.
+- 🌍 I have travelled to 61 cities across the world from Cairo to Bratislava to Bali!
+- 💞️ I’m looking to collaborate on Design & Pitch Decks, User Journey Improvements & Simplified Analytics.
+
+📧 nandita.bhaskaran@gmail.com
+🌐 https://www.linkedin.com/in/nandita-bhaskaran/
 
 <!---
 nanditabhaskaran/nanditabhaskaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
