@@ -1,6 +1,6 @@
 👋 Hello there! 
 
-**Growthing User Acquisitions & Strategizing Product Funnels at a Gaming Unicorn in India!**
+**Growing User Acquisitions & Strategizing Product Funnels at a Gaming Unicorn in India!**
 
 - ⚖️ I love combining design thinking with data analytics to create amazing user experience.
 - 🌍 I have travelled to 61 cities across the world from Cairo to Bratislava to Bali!
